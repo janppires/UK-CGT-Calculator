@@ -1,0 +1,26 @@
+/* CSS */
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  margin: 10px 0;
+  padding: 5px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+pre {
+  background-color: #f0f0f0;
+  padding: 10px;
+  overflow-x: auto;
+}
